@@ -1,2 +1,2 @@
 # Tareas2026
-clase programación gloria Zepeda
+clase programación Gloria Zepeda
